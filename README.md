@@ -1,0 +1,2 @@
+# CI-CD-Automation-for-Java-Maven-Web-Application
+Automate the build, testing, containerization, and deployment of a Java Maven web application using modern DevOps tools. Tools &amp; Technologies Git &amp; GitHub – Source Code Management Maven – Build and Dependency Management Jenkins – CI Pipeline Automation Docker – Application Containerization Kubernetes – Container Orchestration and Deployment Mysql 
